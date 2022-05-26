@@ -1,4 +1,4 @@
 # login_php
-clone this file to htdocs
-config connection database in file
-Happy coding
+clone this file to htdocs<br>
+config connection database in file<br>
+Happy coding<br>

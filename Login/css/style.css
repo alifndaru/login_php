@@ -1,0 +1,59 @@
+html {
+    position: relative;
+}
+
+body {
+    margin-bottom: 100px;
+}
+
+.container-fluid img {
+    padding-top: 20px;
+}
+.row .login {
+    padding-top: 25px;
+}
+.navbar {
+    margin-top: 10px;
+}
+
+.jumbotron {
+    padding-left: 20px;
+    margin-top: -20px;
+    background-image: url("https://wallpapercave.com/wp/wp8390008.png");
+    background-size: cover;
+    background-position: 0 -200px;
+    height: 500px;
+}
+.jumbotron p {
+    color: black;
+}
+
+.next {
+    margin-bottom: 40px;
+}
+
+.thumbnail {
+    overflow: hidden;
+}
+
+.formulir {
+    padding-bottom: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #333;
+    padding-top: 30px;
+}
+
+footer p {
+    color: #aaa;
+    font-size: 1em;
+}
+
+footer p i {
+    color: red;
+}
